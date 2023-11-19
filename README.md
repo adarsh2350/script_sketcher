@@ -21,7 +21,7 @@ Clone the Repository:
 - git clone https://github.com/adarsh2350/script_sketcher.git
   
 Navigate to the Project Directory:
-- cd react-app
+- cd script_sketcher
   
 Install Dependencies:
 - npm install
