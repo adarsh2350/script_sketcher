@@ -45,7 +45,7 @@ Bonus Feature Implemented:
 - Incorporate additional feature of speech bubbles or text annotations using by editing prompt created for API call.
 
 Deployment:
-Deployed the application by using [onrender](https://render.com/), ensuring stability and scalability.
+- Deployed the application by using [onrender](https://render.com/), ensuring stability and scalability.
 
 Notes -
 - Must have to fill atleast one panel (Panel 1) before generating images otherwise alert will be poped out.
