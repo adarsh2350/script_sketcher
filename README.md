@@ -34,4 +34,5 @@ Bonus Feature Implemented:
 
 Notes -
 - Must have to fill atleast one panel (Panel 1) before generating images otherwise alert will be poped out.
-- Not necessary to fill all the fields before generating images.
+- Not necessary to fill all the fields before generating images (fill as per your requirements (1-10)).
+- Speech bubbles not necessary to fill, can fill only some of them as per requirement. 
