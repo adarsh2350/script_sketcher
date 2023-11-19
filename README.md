@@ -9,7 +9,8 @@ Website Link : https://script-sketcher.onrender.com/
 ### Mobile view -
 ![image](https://github.com/adarsh2350/script_sketcher/assets/76907802/2d0181b9-f525-4bc1-a950-3a83639c56a2)
 
-
+### Samble Outputs -
+![image](https://github.com/adarsh2350/script_sketcher/assets/76907802/54504e91-612e-4c1c-a44a-c152ce30c9c0)
 
 
 
