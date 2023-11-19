@@ -31,3 +31,7 @@ Responsive Design:
 
 Bonus Feature Implemented:
 - Incorporate additional feature of speech bubbles or text annotations using by editing prompt created for API call.
+
+Notes -
+- Must have to fill atleast one panel (Panel 1) before generating images otherwise alert will be poped out.
+- Not necessary to fill all the fields before generating images.
