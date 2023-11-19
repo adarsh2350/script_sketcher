@@ -2,7 +2,13 @@
 
 Website Link : https://script-sketcher.onrender.com/
 
+#### Desktop view -
 ![image](https://github.com/adarsh2350/script_sketcher/assets/76907802/f9a80931-bcf6-4915-8a6c-cfac60a8cdd5)
+#### Tablet view -
+![image](https://github.com/adarsh2350/script_sketcher/assets/76907802/b5f184f1-0249-49e2-9978-e019cdcede26)
+### Mobile view -
+![Uploading image.png…]()
+
 
 
 
