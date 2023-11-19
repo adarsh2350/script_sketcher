@@ -18,7 +18,7 @@ Website Link : https://script-sketcher.onrender.com/
 ### Installation
 
 Clone the Repository:
-git@github.com:adarsh2350/script_sketcher.git
+- git clone git@github.com:adarsh2350/script_sketcher.git
 
 
 ### Objective
