@@ -23,6 +23,11 @@ The goal of this project is to develop a straightforward web application enablin
 
 ### Features and Technicalities
 Frontend:
+- Used React for the user interface and interactivity.
+- Utilized fetch for API calls from the frontend to the text-to-image API to handle responses (success or error) and update the UI accordingly.
 
-- Use HTML, CSS, and JavaScript for the user interface and interactivity.
-- Employ frameworks like React or Vue.js for a more structured frontend (optional).
+Responsive Design:
+- Ensured the application's adaptability across various devices using responsive design principles.
+
+Bonus Feature Implemented:
+- Incorporate additional feature of speech bubbles or text annotations using by editing prompt created for API call.
