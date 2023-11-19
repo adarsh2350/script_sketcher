@@ -19,10 +19,13 @@ Website Link : https://script-sketcher.onrender.com/
 
 Clone the Repository:
 - git clone https://github.com/adarsh2350/script_sketcher.git
-Navigate to the Project Directory::
+  
+Navigate to the Project Directory:
 - cd react-app
+  
 Install Dependencies:
 - npm install
+  
 Start the Development Server:
 - npm start
 
