@@ -11,6 +11,10 @@ Website Link : https://script-sketcher.onrender.com/
 
 ### Samble Outputs -
 ![image](https://github.com/adarsh2350/script_sketcher/assets/76907802/54504e91-612e-4c1c-a44a-c152ce30c9c0)
+![image](https://github.com/adarsh2350/script_sketcher/assets/76907802/10676a88-17cd-4e9e-8b6f-76efa8eebd0e)
+![image](https://github.com/adarsh2350/script_sketcher/assets/76907802/8343bdca-042d-4727-8dc2-9aaa2984f5f6)
+
+
 
 
 
