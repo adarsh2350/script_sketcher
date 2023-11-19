@@ -15,8 +15,14 @@ Website Link : https://script-sketcher.onrender.com/
 ![image](https://github.com/adarsh2350/script_sketcher/assets/76907802/8343bdca-042d-4727-8dc2-9aaa2984f5f6)
 
 
-
+### Installation
 
 
 ### Objective
 The goal of this project is to develop a straightforward web application enabling users to create and share a 10-panel comic strip. Users input text into a form, which is then processed by a text-to-image API, generating the comic panels.
+
+### Features and Technicalities
+Frontend:
+
+- Use HTML, CSS, and JavaScript for the user interface and interactivity.
+- Employ frameworks like React or Vue.js for a more structured frontend (optional).
