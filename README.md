@@ -18,10 +18,10 @@ Website Link : https://script-sketcher.onrender.com/
 ### Installation
 
 Clone the Repository:
-- git clone https://github.com/adarsh2350/script_sketcher.git
+- git clone https://github.com/adarsh2350/script_sketcher_3.git
   
 Navigate to the Project Directory:
-- cd script_sketcher
+- cd script_sketcher_3
   
 Install Dependencies:
 - npm install
